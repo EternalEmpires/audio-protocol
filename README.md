@@ -2,7 +2,7 @@
 
 We use websockets to enable audio playback. below you will find information on what the websocket messages sent from our server look like. Our servers do not accept messages. They only send them.
 
-Audio Server URL: `https://audioserver.eternalempires.net/?secret={YOUR_SECRET_HERE}`
+Audio Server URL: `ws://audioserver.eternalempires.net/?secret={YOUR_SECRET_HERE}`
 
 <hr>
 

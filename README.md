@@ -19,7 +19,7 @@ Audio Server URL: `https://audioserver.eternalempires.net/?secret={YOUR_SECRET_H
 ```json
 {
   "type": "start",
-  "audio": "https://cdn.eternalempires.net/audio/es/6b442703-488b-4a63-9102-9d7b86d0dd1c"
+  "audio": "https://cdn.eternalempires.net/audio/es/6b442703-488b-4a63-9102-9d7b86d0dd1c",
   "startTime": 2
 }
 ```
@@ -37,7 +37,7 @@ Audio Server URL: `https://audioserver.eternalempires.net/?secret={YOUR_SECRET_H
 ```json
 {
   "type": "stop",
-  "audio": "https://cdn.eternalempires.net/audio/es/6b442703-488b-4a63-9102-9d7b86d0dd1c"
+  "audio": "https://cdn.eternalempires.net/audio/es/6b442703-488b-4a63-9102-9d7b86d0dd1c",
 }
 ```
 

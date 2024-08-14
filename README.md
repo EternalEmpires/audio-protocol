@@ -1,4 +1,4 @@
-## Audio Protocol
+# Audio Protocol
 
 We use websockets to enable audio playback. below you will find information on what the websocket messages sent from our server look like. Our servers do not accept messages. They only send them.
 

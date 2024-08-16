@@ -14,13 +14,15 @@ Audio Server URL: `ws://audioserver.eternalempires.net/?secret={YOUR_SECRET_HERE
 | type | The type of the action. 'start' | true |
 | audio | The URL of the audio to start | true |
 | startTime | The start time in seconds e.g. 2 | false |
+| startVolume | The volume to start the sound with (From 0 to 100) By default its 100 | false |
 
 ### Example:
 ```json
 {
   "type": "start",
   "audio": "https://cdn.eternalempires.net/audio/es/6b442703-488b-4a63-9102-9d7b86d0dd1c.mp3",
-  "startTime": 2
+  "startTime": 2,
+  "startVolume": 90
 }
 ```
 

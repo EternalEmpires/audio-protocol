@@ -39,7 +39,7 @@ Audio Server URL: `ws://audio.eternalempires.net/?secret={YOUR_SECRET_HERE}`
 ```json
 {
   "type": "stop",
-  "audio": "https://cdn.eternalempires.ovh/audio/es/6b442703-488b-4a63-9102-9d7b86d0dd1c.mp3",
+  "audio": "https://cdn.eternalempires.ovh/audio/es/6b442703-488b-4a63-9102-9d7b86d0dd1c.mp3"
 }
 ```
 
